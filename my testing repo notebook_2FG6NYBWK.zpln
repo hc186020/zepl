@@ -1,0 +1,41 @@
+{
+  "paragraphs": [
+    {
+      "text": "dsfdsfdsfdsfdsfds",
+      "user": "admin",
+      "dateUpdated": "2020-07-30 00:12:39.330",
+      "config": {
+        "colWidth": 12.0,
+        "fontSize": 9.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "text",
+          "editOnDblClick": false
+        },
+        "editorMode": "ace/mode/text"
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "apps": [],
+      "progressUpdateIntervalMs": 500,
+      "jobName": "paragraph_1596067953169_986179387",
+      "id": "paragraph_1596067953169_986179387",
+      "dateCreated": "2020-07-30 00:12:33.169",
+      "status": "READY"
+    }
+  ],
+  "name": "my testing repo notebook",
+  "id": "2FG6NYBWK",
+  "defaultInterpreterGroup": "Teradata",
+  "version": "0.9.0-preview1",
+  "noteParams": {},
+  "noteForms": {},
+  "angularObjects": {},
+  "config": {
+    "isZeppelinNotebookCronEnable": false
+  },
+  "info": {}
+}
